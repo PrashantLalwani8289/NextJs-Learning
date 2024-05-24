@@ -1,0 +1,10 @@
+// import { notFound } from 'next/navigation';
+
+
+function NotFound() {
+  return (
+    <div>Review not found</div>
+  )
+}
+
+export default NotFound
